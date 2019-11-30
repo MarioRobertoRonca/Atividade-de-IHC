@@ -1,0 +1,21 @@
+.footer-text a {
+    color: grey !important;
+}
+
+.list-index{
+    list-style: none;
+}
+
+.list-index li a{
+    font-size: 16px;
+    color: black;
+}
+
+.list-index li a:hover{
+    
+}
+
+.list-index li a span{
+    font-size: 24px;
+    color: coral;
+}
